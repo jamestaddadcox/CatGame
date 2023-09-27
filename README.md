@@ -15,4 +15,6 @@ LEFT: Move left <br>
 RIGHT: Move right <br>
 ESC: Exit the game
 
+![Screenshot](images/CatGameScreenshot.jpg "Gameplay screenshot")
+
 Inspired by the "minigame" project from Microsoft's Foundational C# certification: https://learn.microsoft.com/en-us/training/modules/challenge-project-create-mini-game/
